@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/cucumber-core-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/cucumber-java-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/cucumber-junit-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/Cucumber/junit-4.11.jar"/>
+	<classpathentry kind="src" path="/SLVehRegistration"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/SLVR.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/jxl-2.6.12.jar/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/Tutorials/IDE2E/lib/jar_files/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
